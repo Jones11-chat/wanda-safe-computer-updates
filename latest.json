@@ -1,8 +1,8 @@
 {
-  "version": "0.2.4",
-  "package_name": "WandaSafeComputer-0.2.4-windows.zip",
-  "package_url": "https://raw.githubusercontent.com/Jones11-chat/wanda-safe-computer-updates/main/WandaSafeComputer-0.2.4-windows.zip",
-  "sha256": "6A96697C720F8CD3C06CE2EAD29AD1E29C87C16918EE13C0F7F85862A7CBEDF1",
-  "notes": "Built from b210d435a7609f0aa454c82bd768049ad21a944f",
-  "published_at": "2026-08-09T17:41:24.6682012Z"
+  "version": "0.2.6",
+  "package_name": "WandaSafeComputer-0.2.6-windows.zip",
+  "package_url": "https://raw.githubusercontent.com/Jones11-chat/wanda-safe-computer-updates/main/WandaSafeComputer-0.2.6-windows.zip",
+  "sha256": "650630FB126F5CF273454B8EF3B062970D4744BA4DCF82C507C1E58F6845E095",
+  "notes": "Built from 0007b649a210cf90ba8404c6e3d3975c4497b3a5",
+  "published_at": "2026-08-09T17:45:23.1341454Z"
 }
